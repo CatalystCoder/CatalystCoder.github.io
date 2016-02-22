@@ -1,0 +1,6 @@
+---
+title: End of Week 2
+---
+
+
+As we begin our third week I can't help but to feel like time has flown by. We started out rough in week one with our string segmentation code. Day 2 and I was blown out of the water. Things seem to be clicking a lot faster now and I feel like maybe I'm starting to process things more like a programmer than just a person. Todays assignment was us debugging some broken code and I seemed to get it all with a little bit of fuss, but I got it working! The moment when you see things start working is just amazing! I just thought back today how on day two I thought that there was no chance I was going to even make it this far. It's amazing to see how much we can overcome. Coming to the realization that this is a collaborative style of work is amazing as well. In schools they usually tell you to stay away from each other because it's cheating yet here it's a "Look what they did and see if you can figure out why it works that way or maybe get your own thoughts on how it should work.", and that amazes me. I'm not usually one to overly praise myself but I'm impressed by how much I've learned recently. Through all the frustrations and huzzah moments, it's been a good 2 weeks. Here's to the rest of it!
